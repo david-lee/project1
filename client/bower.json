@@ -1,0 +1,33 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "Website for the first project",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "project1"
+  ],
+  "authors": [
+    "YH"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.6",
+    "angular-ui-router": "^0.3.0",
+    "angular-mocks": "^1.5.6",
+    "angular-resource": "^1.5.6",
+    "angular-route": "^1.5.6",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3",
+    "ng-dialog": "^0.6.1"
+  },
+  "overrides": {}
+}
