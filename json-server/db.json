@@ -1,5 +1,8 @@
 {
-  "phones": [{"_id":"57504557a56d4a52120eff6b","updatedAt":"2016-06-02T14:40:23.274Z","createdAt":"2016-06-02T14:40:23.274Z","name":"IPhone 6S","description":"Newest IPhone","__v":0},{"_id":"57504608d6f63995125cd3f8","updatedAt":"2016-06-02T14:43:20.253Z","createdAt":"2016-06-02T14:43:20.253Z","name":"Samsung Galaxy 7","description":"Newest Galaxy Phone","__v":0}],
+  "phones": [
+    {"_id":"57504557a56d4a52120eff6b","updatedAt":"2016-06-02T14:40:23.274Z","createdAt":"2016-06-02T14:40:23.274Z","name":"IPhone 6S","description":"Newest IPhone","__v":0},
+    {"_id":"57504608d6f63995125cd3f8","updatedAt":"2016-06-02T14:43:20.253Z","createdAt":"2016-06-02T14:43:20.253Z","name":"Samsung Galaxy 7","description":"Newest Galaxy Phone","__v":0}
+  ],
   "dishes": [
     {
       "id": 0,
